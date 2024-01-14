@@ -2,7 +2,7 @@
 Hone your programming skills with this AI driven web app for personalized programming projects.
 
 
-## Try It [Here](https://codegr-61c9b.web.app/)
+## Try It [Here](codegrow.rslatech.com)
 
 ## Inspiration
 The inspiration for CodeGrow came from a common challenge faced by programmers of all levels: finding the right path to improve and expand their skills. I realized that while there are numerous resources available, what's lacking is a personalized approach to learning and project development. I wanted to create an app that not only suggests projects tailored to an individual's skill level and interests but also assists in planning, tracking progress, and connecting with a community. The hackathon theme of "Resolution" perfectly aligned with our vision of helping programmers to continually grow and achieve their personal and professional goals.
