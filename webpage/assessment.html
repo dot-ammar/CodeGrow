@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html data-bs-theme="light" lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
+    <title>CodeGrow</title>
+    <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700&amp;display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&amp;display=swap">
+    <link rel="stylesheet" href="assets/css/Features-Centered-Icons-icons.css">
+    <link rel="stylesheet" href="assets/css/multi-step-form.css">
+    <link rel="stylesheet" href="assets/css/projects.css">
+
+</head>
+
+<body>
+    <section>
+        <div class="container mb-auto" style="margin-top: 30px;">
+            <h2 class="text-center">Assessment</h2>
+            <form id="regForm" class="border rounded shadow" method="post" action style="margin-top: 50px;height: 860px;padding-top: 35px;" data-bs-toggle="modal">
+                <h1 style="font-size: 31px;">Info About You</h1>
+                <div class="field" style="padding-top: 15px;">
+                    <strong>Name:</strong>
+                    <input class="form-control" type="text" name="name" />
+                </div>
+                <div class="field" style="padding-top: 13px;">
+                    <strong>Skill Level:</strong>
+                    <div class="form-check">
+                        <input id="formCheck-1" class="form-check-input" type="radio" name="skill" value="novice" />
+                        <label class="form-check-label" for="formCheck-1">Novice</label>
+                    </div>
+                    <div class="form-check">
+                        <input id="formCheck-2" class="form-check-input" type="radio" name="skill" value="beginner" />
+                        <label class="form-check-label" for="formCheck-2">Beginner</label>
+                    </div>
+                    <div class="form-check">
+                        <input id="formCheck-3" class="form-check-input" type="radio" name="skill" value="intermediate" />
+                        <label class="form-check-label" for="formCheck-3">Intermediate</label>
+                    </div>
+                    <div class="form-check">
+                        <input id="formCheck-4" class="form-check-input" type="radio" name="skill" value="advanced" />
+                        <label class="form-check-label" for="formCheck-4">Advanced</label>
+                    </div>
+                    <div class="form-check">
+                        <input id="formCheck-5" class="form-check-input" type="radio" name="skill" value="expert" />
+                        <label class="form-check-label" for="formCheck-5">Expert</label>
+                    </div>
+                </div>
+                <div class="field" style="padding-top: 13px;">
+                    <strong>Languages:</strong>
+                    <input class="form-control" type="text" name="languages" />
+                    <label class="form-label" style="font-size: 11px;">*Comma Seperated</label
+                    ></div>
+                <div class="field" style="padding-top: 13px;">
+                    <strong>Frameworks:</strong>
+                    <input class="form-control" type="text" name="frameworks" />
+                    <label class="form-label" style="font-size: 11px;">*Comma Seperated</label>
+                </div>
+                <div class="field" style="padding-top: 13px;">
+                    <strong>Interests:</strong>
+                    <input class="form-control" type="text" name="interests" />
+                    <label class="form-label" style="font-size: 11px;">*Comma Seperated</label>
+                </div>
+                <div class="field" style="padding-top: 13px;">
+                    <strong>API Key:</strong>
+                    <input class="form-control" type="text" name="apiKey" />
+                    <label class="form-label" style="font-size: 11px;">*OpenAI Key for AI Generation</label>
+                </div>
+                <button class="btn btn-primary" type="submit" style="margin-top: 27px;">Submit</button>
+            </form>
+        </div>
+    </section>
+    <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/js/codegrow.js"></script>
+</body>
+
+</html>
