@@ -3,6 +3,10 @@ Hone your programming skills with this AI driven web app for personalized progra
 
 
 ## Try It Here: [codegrow.rslatech.com](https://codegrow.rslatech.com/)
+![CodeGrow - FrontPage](https://github.com/dot-ammar/CodeGrow/assets/80134790/4a820578-935c-40e4-9d71-73c7d6b1b76c)
+![CodeGrow - Assessment](https://github.com/dot-ammar/CodeGrow/assets/80134790/9ef613ef-1884-487e-9d9f-33c7a87a58dc)
+![CodeGrow - Project Ideas](https://github.com/dot-ammar/CodeGrow/assets/80134790/e3f25d84-b77d-4246-9a47-114e710fd475)
+![CodeGrow - FinalProject](https://github.com/dot-ammar/CodeGrow/assets/80134790/e49d62cf-0250-4f88-a171-2b3f38dbaed3)
 
 ## Inspiration
 The inspiration for CodeGrow came from a common challenge faced by programmers of all levels: finding the right path to improve and expand their skills. I realized that while there are numerous resources available, what's lacking is a personalized approach to learning and project development. I wanted to create an app that not only suggests projects tailored to an individual's skill level and interests but also assists in planning, tracking progress, and connecting with a community. The hackathon theme of "Resolution" perfectly aligned with our vision of helping programmers to continually grow and achieve their personal and professional goals.
